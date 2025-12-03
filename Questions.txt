@@ -11,8 +11,3 @@ Given an array of number calculate their total using a loop.
 / String Problems
 6.  Count Vowels in a String
 Write a function that counts how many vowels (a, e, l 0, 4) appear in a given string.
-7. Check if a String is a Palindrome
-Write a function to check whether a string reads the same backward and forward.
-8.  Find the Longest Word in a Sentence Given a sentence, return the longest word using string and array methods.
-/ Combined Array + String + Loop Problems
-9. Convert an Array of Strings to Uppercase Write a function that loop through an array of strings and converts each to uppercase.
