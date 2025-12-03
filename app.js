@@ -50,6 +50,3 @@
 //     total+=arr[i]
 // }
 // console.log("Total: " + total)
-
-
-// Q#6
